@@ -1,25 +1,15 @@
-/* My Awesome Styles */
 
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
 
-* {
-    outline: 1px dotted black;
-}
+
 
 /* Doodle Stage */
 #stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
-}
+  margin-top: 700px;
+  scale: 1.5;
+  height: 500px;
+  width: 792.19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-#heart1 {
-  fill: red;
-}
-
-#heart2 {
-  fill: green;
 }
